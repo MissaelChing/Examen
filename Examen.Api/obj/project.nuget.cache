@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ivrhEFpXd2REcoks762cPPwKzfkadKrcH0xDpDpmZhJ1UVtFFWP0CR6CxmG6D4+kVGakvCobfXD9kjDo9vbn0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Missael Ching R&M\\Desktop\\Examen\\Examen.Api\\Examen.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Missael Ching R&M\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Missael Ching R&M\\.nuget\\packages\\pokeapi-nj.net\\1.2.0\\pokeapi-nj.net.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
